@@ -1,0 +1,229 @@
+.button {background-color: #e7e7e7; color: black}
+
+.button2 {background-color: red;color: white;}
+
+.button3 {background-color: orange;color: white;}
+
+.box1{
+  display: flex;
+  justify-content: center;
+  border: black;
+  flex-direction: row;
+  padding: 1%;
+  border: 10%;
+  
+}
+
+.box {
+  display: flex;
+  justify-content: flex-start;
+  border: black;
+  flex-direction: row;
+  padding: 1%;
+  border: 10%;
+  
+}
+
+.content1{
+  justify-content: center;
+  padding: 1px;
+  width: 30rem;
+  height: 30rem;
+  margin: auto;
+
+}
+
+.content{
+  border: 1px solid #000;
+  justify-content: center;
+  border: 2px solid gainsboro;
+  padding: 10px;
+  width: 20rem;
+  height: 10rem;
+  display: inline-grid;
+  margin: 1rem 2rem;
+
+}
+.name1{
+  display: block;
+  background-color: white;
+  color: black;
+ padding: 2%;
+ height: 900px;
+ margin: auto;
+ width: auto;
+ border-radius:auto;
+ align-items: center;
+  justify-content: center;
+}
+
+h6 {
+  width: 100%; 
+  text-align: center; 
+  border-bottom: 1px solid #000; 
+  line-height: 0.1em;
+  margin: 10px 0 20px; 
+} 
+
+h6 span { 
+   background:#fff; 
+   padding:0 10px; 
+}
+
+h3 {
+  width: 100%; 
+  text-align: center; 
+  border-bottom: 1px solid #000; 
+  line-height: 0.1em;
+  margin: 10px 0 20px; 
+} 
+
+h3 span { 
+   background:#fff; 
+   padding:0 10px; 
+}
+
+#navbar{
+  align-items: center;
+  justify-content: center;
+  margin-left: 10%;
+  padding:auto; 
+}
+
+button {
+  border: none;
+  padding: 10px 40px;
+  text-align: center;
+  border-radius: 10%;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: auto;
+  cursor:pointer;
+}
+
+.button-new{
+  align-items: center;
+    justify-content: center;
+    margin-left: 30%;
+    padding:auto;
+    
+}
+
+.bg-dark{
+    background-color: rgb(10, 10, 10);
+}
+body{
+    background-color: rgb(10, 10, 10);
+}
+
+.jumbotron{
+    background-color: rgb(10, 10, 10);
+    color: white;
+    text-align: center;
+    height: 600px;
+}
+.card-text{
+    width: 30%;
+  height: 30%;
+  font-size: medium;
+}
+
+.display-4{
+    border-radius: auto;
+  margin: 10%;
+    width: 80%;
+  height: 80%;
+  font-size: medium;
+}
+
+.card{
+   display: block;
+   padding: auto;
+   height: 800px;
+   margin: auto;
+   width: auto;
+   border-radius:auot;
+
+}
+
+img{
+        left: 0;
+        margin-left: 60%;
+        width: 250px;
+        height: 250px;
+        opacity: 200%;;
+  }
+
+  .text-end{
+    display: flex;
+    flex-direction: column;
+    padding: auto;
+  }
+
+  img{
+    height: 25%;
+    width: 25%;
+    margin: 0px 100px 0px 100px;
+  }
+
+.card-text{
+    height: 200px;
+    width: 500px;
+    margin: 0%;
+    font-size: smaller;
+    align-items: center;
+    justify-content: center;
+    border:medium;
+}
+
+.card-body{
+    display: flex;
+  flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+}
+
+.name{
+    display: block;
+    background-color: white;
+    color: black;
+   padding: 10%;
+   height: 800px;
+   margin: auto;
+   width: auto;
+   align-items: center;
+    justify-content: center;
+}
+
+.quote{
+    display: flex;
+    height: 150px;
+    width: auto;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+.quote1{
+    height: 250px;
+    width: auto;
+    color: white;
+}
+
+.footer-bs{
+  color: white;
+}
+
+.row{
+  color: white;
+  margin-left: 15%;
+  font-size:12px;
+}
+
+
+.col-md-3{
+border-right:1px solid rgba(255, 255, 255, 0.329);
+padding: 30px 50px;
+}
+
